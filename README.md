@@ -9,3 +9,7 @@ Curabitur nunc lacus, porta nec augue sit amet, lobortis lobortis massa. Quisque
 Donec ultrices orci vel molestie vulputate. Vivamus eget dui purus. Sed cursus blandit neque nec commodo. Vestibulum ut dolor euismod, ullamcorper eros non, accumsan velit. Aliquam elit magna, accumsan aliquam venenatis nec, dignissim quis diam. Vivamus est lectus, sagittis vitae nunc vel, iaculis tempus purus. Sed ac tincidunt purus. Fusce iaculis dui vel metus tristique varius. Vivamus aliquet, metus eu semper pharetra, metus arcu vehicula tellus, sit amet ultricies eros purus sit amet dolor. Fusce euismod odio vel hendrerit tincidunt. Maecenas sed eros sit amet dui dapibus ornare nec sit amet eros.
 
 Donec vitae consequat lacus, quis sagittis elit. Nunc vel porttitor ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed tempor odio massa, eu viverra dolor consectetur ut. Donec vehicula tortor semper felis dignissim ornare. Pellentesque feugiat nulla non eros facilisis bibendum. Fusce eget accumsan diam, a interdum dolor. Suspendisse arcu quam, hendrerit ut cursus non, luctus sit amet orci.
+
+## Local Development
+
+1. Open index.html in your browser.
