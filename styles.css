@@ -1,0 +1,36 @@
+html {
+    background-color: #33adc8;
+    color: #C833AD;
+    font-size: 18px;
+}
+
+body {
+    background-color: #ADC833;
+    width: 75%;
+    font-size: 1.2rem;
+}
+
+h1 {
+    margin: 10px auto;
+    padding: 8px;
+    text-align: center;
+}
+
+h2, h3 {
+    margin: 15px;
+    padding: 9px;
+}
+
+.text {
+    margin: 20px;
+    padding: 10px;
+    text-align: justify;
+}
+
+.modifier-paragraph {
+    background-color: #33adc8;
+    box-sizing: border-box;
+    border: solid 5px #C833AD;
+    width: 285px;
+    height: 55px;
+}
